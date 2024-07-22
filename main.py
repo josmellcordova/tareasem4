@@ -1,4 +1,4 @@
 from tratamientoDx import *
 
-print(sumar(10,20))
+print(sumar(100,200))
 
