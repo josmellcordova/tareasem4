@@ -1,4 +1,6 @@
 import pandas as pd
 
-def calcular_correlacion(dataframe):
-    return dataframe.corr()
+#Funcion para correlación
+
+def calcular_correlacion(df):
+    return df.corr()
